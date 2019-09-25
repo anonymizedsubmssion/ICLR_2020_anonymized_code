@@ -1,4 +1,4 @@
-#Anonymized code submission
+# Anonymized code submission
 
 Dear Reviewer,
 
